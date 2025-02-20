@@ -1,7 +1,5 @@
-[Visit the live site] ([https://github.com/srinath2125/srinath2125](https://roadmap.sh/projects/static-site-server))
+**Static Site Server**  [Link Text](https://github.com/srinath2125/srinath2125/)
 
-
-**Static Site Server**
 
 This project focuses on two key technologies: Nginx for efficient web serving and rsync for seamless file synchronization between your local development environment and the remote server.
 
@@ -234,6 +232,4 @@ This script uses rsync to synchronize your local site files with the server, ens
 
 **4. Point Your Domain to the Server**
 
-If you have a domain name, update its DNS settings to point to your server's IP address. This process varies depending on your domain registrar. Once DNS propagation is complete, your site will be accessible via your domain name.
-
-[https://github.com/srinath2125/srinath2125]
+If you have a domain name, update its DNS settings to point to your server's IP address. This process varies depending on your domain registrar. Once DNS propagation is complete, your site will be accessible via your domain name
