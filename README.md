@@ -1,4 +1,4 @@
-[Visit the live site] (https://github.com/srinath2125/srinath2125)
+[Visit the live site] ([https://github.com/srinath2125/srinath2125](https://roadmap.sh/projects/static-site-server))
 
 
 **Static Site Server**
