@@ -233,3 +233,4 @@ This script uses rsync to synchronize your local site files with the server, ens
 
 If you have a domain name, update its DNS settings to point to your server's IP address. This process varies depending on your domain registrar. Once DNS propagation is complete, your site will be accessible via your domain name.
 
+[https://github.com/srinath2125/srinath2125]
