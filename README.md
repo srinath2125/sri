@@ -1,3 +1,8 @@
+## Live Demo
+
+[Visit the live site](https://github.com/srinath2125/srinath2125/)
+
+
 **Static Site Server**
 
 This project focuses on two key technologies: Nginx for efficient web serving and rsync for seamless file synchronization between your local development environment and the remote server.
