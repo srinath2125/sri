@@ -1,6 +1,4 @@
-## Live Demo
-
-[Visit the live site](https://github.com/srinath2125/srinath2125/)
+[Visit the live site] (https://github.com/srinath2125/)
 
 
 **Static Site Server**
